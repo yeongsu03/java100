@@ -9,6 +9,7 @@ public class ex8 {
 		String str = scan. nextLine();			
 		System.out.print(str);
 
+		scan.close();
 	}
 
 }
