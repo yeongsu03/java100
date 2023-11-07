@@ -10,7 +10,7 @@ public class ex10 {
 		int b = scan.nextInt();
 		System.out.print(a+" "+b);
 		
-
+		scan.close();
 	}
 
 }
