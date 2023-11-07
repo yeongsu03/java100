@@ -9,6 +9,7 @@ public class ex7 {
 		int i = scan. nextInt();
 		System.out.print(i);
 
+		scan.close();
 	}
 
 }
