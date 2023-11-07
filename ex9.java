@@ -9,6 +9,7 @@ public class ex9 {
 		Float r = scan.nextFloat();
 		System.out.print(r);
 
+		scan.close();
 	}
 
 }
